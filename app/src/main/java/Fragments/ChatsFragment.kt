@@ -1,0 +1,4 @@
+package Fragments
+
+class ChatsFragment {
+}
